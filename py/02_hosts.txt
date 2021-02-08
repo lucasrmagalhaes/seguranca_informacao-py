@@ -1,0 +1,4 @@
+www.google.com
+8.8.8.8
+www.teste.com.br
+4.4.4.4
