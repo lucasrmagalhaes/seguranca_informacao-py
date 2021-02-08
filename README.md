@@ -1,5 +1,5 @@
 <p align="left">
-  <strong>Curso:</strong> Segurança da Informação com Python.
+  <strong>Curso:</strong> Segurança da Informação com Python. <br />
   <strong>Plataforma:</strong> Digital Innovation One.
 
   <strong>Códigos:</strong>
