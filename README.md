@@ -1,14 +1,14 @@
-<p align="left">
-  <strong>Curso:</strong> Segurança da Informação com Python. <br />
-  <strong>Plataforma:</strong> Digital Innovation One.
+**Curso:** Segurança da Informação com Python. <br>
+**Plataforma:** Digital Innovation One.
 
-  <strong>Códigos:</strong>
-
-  <ul>
-    <li><a href="https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/01_pingSimples.py"</a>Ping Simples</li>
-    <li><a href="https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/02_pingMultiplo.py"</a>Ping Múltiplo</li>
-    <li><a href="https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/03_clienteTCP.py"</a>Cliente TCP</li>
-    <li><a href="https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/04_clienteUDP.py"</a>Cliente UDP</li>
-    <li><a href="https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/05_servidorUDP.py"</a>Servidor UDP</li>
-  </ul>
-</p>
+[Ping Simples](https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/01_pingSimples.py) 
+<br>
+[Ping Múltiplo](https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/02_pingMultiplo.py)
+<br>
+[Cliente TCP](https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/03_clienteTCP.py)
+<br>
+[Cliente UDP](https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/04_clienteUDP.py)
+<br>
+[Servidor UDP](https://github.com/lucasrmagalhaes/segurancaInformacao-python/blob/main/py/05_servidorUDP.py)
+<br>
+[Md5 Decrypt & Encrypt](https://md5decrypt.net/en/)
