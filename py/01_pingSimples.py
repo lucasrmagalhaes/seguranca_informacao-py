@@ -16,4 +16,3 @@ os.system('ping -n 6 {}'.format(ip_ou_host))
 
 # Imprimindo - 60 vezes
 print("-" * 60)
-
