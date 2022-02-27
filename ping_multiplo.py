@@ -1,7 +1,9 @@
 import os
 import time
 
-with open('02_hosts.txt') as file:
+hosts = 'ping_multiplo_hosts.txt'
+
+with open(hosts) as file:
     dump = file.read()
     dump = dump.splitlines()
 
