@@ -14,7 +14,7 @@
 [Gerador de Wordlists](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_wordlists.py)
 
 <p align="center">
-    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/web_scraping.py"><strong>Web Scraping</stong></a>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/web_scraping.py"><strong>Web Scraping</strong></a>
 </p>
 
 <p align="justify">
