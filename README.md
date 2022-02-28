@@ -35,9 +35,22 @@
 
 <hr>
 
-[Cliente TCP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_TCP.py) <br>
-[Cliente UDP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_UDP.py) <br>
-[Servidor UDP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/servidor_UDP.py) <br>
+<p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_TCP.py"><strong>Cliente TCP</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_UDP.py"><strong>Cliente UDP</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/servidor_UDP.py">Servidor UDP</a>
+</p>
+
+<p align="justify">
+    &emsp;O TCP (Transmission Control Protocol) ou Protocolo de Controle de Transmissão é um dos protocolos de comunicação, que dão suporte a rede global Internet, verificando se os dados são enviados na sequência correta e sem erros.
+    <br><br>
+    &emsp;O UDP (User Datagram Protocol) ou Protocolo de Datagrama de Usuário é um protocolo simples da camada de transporte que permite que a aplicação envie um datagrama dentro num pacote IPv4 ou IPv6 a um destino, porém, sem qualquer tipo de garantia que o pacote chegue corretamente.
+</p>
+
+<hr>
+
 [Gerador de Senhas](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_senhas.py) <br>
 [Comparador de Hashes](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/comparador_de_hashes.py) <br>
 [Threads](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/threads.py) <br>
