@@ -72,5 +72,23 @@
 <hr>
 
 <p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/verificador_de_ip_externo.py"><strong>Verificador de IP Externo</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;<strong>Bibliotecas:</strong> 
+    <br> 
+    &emsp;re - permite operações com expressões regulares. 
+    <br>
+    &emsp;json - fornece operação de codificação e decodificação JSON.
+    <br>
+    &emsp;urlopen - funções e classes que ajudam a abrir URLs.
+    <br><br>
+    &emsp;<a href="https://ipinfo.io/json">ipinfo</a>
+</p>
+
+<hr>
+
+<p align="center">
     <a href="https://md5decrypt.net/en/"><strong>Md5 Decrypt & Encrypt</strong></a>
 </p>
