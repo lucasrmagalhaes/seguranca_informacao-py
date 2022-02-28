@@ -1,23 +1,40 @@
 **Curso:** Segurança da Informação com Python. <br>
 **Plataforma:** Digital Innovation One.
 
-**Princípios da Segurança da Informação:**
-<p align="justify">
-    &emsp;Integridade: Proteger a informação de alterações indevidas.
-    <br>
-    &emsp;Confidencialidade: Manter uma informação confidencial.
-    <br>
-    &emsp;Disponibilidade: Garantir que um recurso e/ou informação esteja disponível.
-    <br>
-    &emsp;Identificação: Identificar uma entidade.
-    <br>
-    &emsp;Autenticação: Verificar a entidade e suas credenciais.
-    <br>
-    &emsp;Autorização: Autorizar a entidade dentro de um Sistema.
+<hr>
+
+<p align="center">
+    <strong>Princípios da Segurança da Informação:</strong>
 </p>
 
-[Ping Simples](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_simples.py) <br>
-[Ping Múltiplo](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_multiplo.py) <br>
+<p align="justify">
+    &emsp;<strong>Integridade:</strong> Proteger a informação de alterações indevidas.
+    <br>
+    &emsp;<strong>Confidencialidade:</strong> Manter uma informação confidencial.
+    <br>
+    &emsp;<strong>Disponibilidade:</strong> Garantir que um recurso e/ou informação esteja disponível.
+    <br>
+    &emsp;<strong>Identificação:</strong> Identificar uma entidade.
+    <br>
+    &emsp;<strong>Autenticação:</strong> Verificar a entidade e suas credenciais.
+    <br>
+    &emsp;<strong>Autorização:</strong> Autorizar a entidade dentro de um Sistema.
+</p>
+
+<hr>
+
+<p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_simples.py"><strong>Ping Simples</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_multiplo.py"><strong>Ping Múltiplo</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;O ping é uma ferramenta que usa o protocolo ICMP para testar a conectividade entre nós. É um comando disponível praticamente em todos os Sistemas Operacionais que consiste no envio de pacotes para o equipamento de destino e na "escuta" das respostas.
+</p>
+
+<hr>
+
 [Cliente TCP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_TCP.py) <br>
 [Cliente UDP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_UDP.py) <br>
 [Servidor UDP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/servidor_UDP.py) <br>
