@@ -33,14 +33,32 @@
 </p>
 
 <p align="justify">
-    &emsp;É uma ferramenta usada para encontrar, ler e indexar páginas de um site. É como um robô que captura informações de cada um dos links que encontra pela frente, cadastra e compreende o que é mais relevante. (palavras - chaves). <br>
-    &emsp;Muito utilizado em levantamento de informações em um processo de pentest. <br><br>
-    &emsp;<strong>Bibliotecas:</strong> <br> 
-    &emsp;<a href="https://pypi.org/project/beautifulsoup4/">BeautifulSoup</a> - é uma biblioteca de extração de dados de arquivos HTML e XML. <br> 
-    &emsp;<a href="#">operator</a> - exporta um conjunto de funções eficientes correspondentes aos operadores intrínsecos do Python como: + - * / not and. <br>
+    &emsp;É uma ferramenta usada para encontrar, ler e indexar páginas de um site. É como um robô que captura informações de cada um dos links que encontra pela frente, cadastra e compreende o que é mais relevante (palavras - chaves). 
+    <br>
+    &emsp;Muito utilizado em levantamento de informações em um processo de pentest. 
+    <br><br>
+    &emsp;<strong>Bibliotecas:</strong> 
+    <br> 
+    &emsp;BeautifulSoup - é uma biblioteca de extração de dados de arquivos HTML e XML. 
+    <br> 
+    &emsp;operator - exporta um conjunto de funções eficientes correspondentes aos operadores intrínsecos do Python como: + - * / not and. <br>
     &emsp;collections - nos ajuda a preencher e manipular eficientemente as estrtuturas de dados como tuplas, dicionários e listas.
 </p>
 
 <hr>
 
-[Md5 Decrypt & Encrypt](https://md5decrypt.net/en/)
+<p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/verificador_de_telefone.py"><strong>Verificador de Telefone</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;<strong>Biblioteca:</strong> 
+    <br> 
+    &emsp;<a href="https://pypi.org/project/phonenumbers/">phonenumbers</a> - fornece vários recursos, como informações básicas de um número de telefone, validação de um número de telefone, etc.
+</p>
+
+<hr>
+
+<p align="center">
+    <a href="https://md5decrypt.net/en/"><strong>Md5 Decrypt & Encrypt</strong></a>
+</p>
