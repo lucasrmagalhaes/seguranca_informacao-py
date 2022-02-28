@@ -60,5 +60,17 @@
 <hr>
 
 <p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ocultador_de_arquivos.py"><strong>Ocultador de Arquivos</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;<strong>Biblioteca:</strong> 
+    <br> 
+    &emsp;ctypes - fornece tipos de dados compatíveis com C e permite funções de chamada em DLLs ou bibliotecas compartilhadas.
+</p>
+
+<hr>
+
+<p align="center">
     <a href="https://md5decrypt.net/en/"><strong>Md5 Decrypt & Encrypt</strong></a>
 </p>
