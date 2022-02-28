@@ -90,5 +90,19 @@
 <hr>
 
 <p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ferramenta_grafica_para_abrir_o_navegador.py"><strong>Ferramenta Gráfica para Abrir o Navegador</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;<strong>Bibliotecas:</strong> 
+    <br> 
+    &emsp;webbrowser - fornece uma interface de alto nível para permitir a exibição de documentos Web aos usuários.
+    <br>
+    &emsp;tkinter - fornece interface padrão do Python para o kit de ferramentas gráficas TK.
+</p>
+
+<hr>
+
+<p align="center">
     <a href="https://md5decrypt.net/en/"><strong>Md5 Decrypt & Encrypt</strong></a>
 </p>
