@@ -40,7 +40,7 @@
     <br>
     <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_UDP.py"><strong>Cliente UDP</strong></a>
     <br>
-    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/servidor_UDP.py">Servidor UDP</a>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/servidor_UDP.py"><strong>Servidor UDP</strong></a>
 </p>
 
 <p align="justify">
@@ -51,12 +51,39 @@
 
 <hr>
 
-[Gerador de Senhas](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_senhas.py) <br>
-[Comparador de Hashes](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/comparador_de_hashes.py) <br>
-[Threads](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/threads.py) <br>
-[IP's](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ips.py) <br>
-[Gerador de Hashes](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_hashes.py) <br>
-[Gerador de Wordlists](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_wordlists.py)
+<p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_senhas.py"><strong>Gerador de Senhas</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/comparador_de_hashes.py"><strong>Comparador de Hashes</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/threads.py"><strong>Threads</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ips.py"><strong>IPs</strong></a>
+    <br>
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_hashes.py"><strong>Gerador de Hashes</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;<strong>Random:</strong> Implementa geradores de números pseudoaleatórios para várias distribuições.
+    <br>
+    &emsp;<strong>hash:</strong> É como se fosse um identificador único gerado através de um algoritmo que vai analisar byte a byte de determinado dado para gerar de forma única, um determinado código que só aquele arquivo terá. Se neste mesmo arquivo um único bit for alterado o hash gerado será diferente.
+    <br>
+    &emsp;<strong>hashlib:</strong> Implementa uma interface comum para muitos algoritmos de hash seguroo como SHA1, SHA256, MD5 entre outros.
+    <br>
+    &emsp;<strong>Multithreading:</strong> Thread é o processo e no ambiente multithead, cada processo pode responder a várias solicitações concorrentemente ou mesmo simultaneamente. Esta biblioteca constrói interfaces de alto nível para processamento usando o módulo Thread, de mais baixo nível, ou seja relação direta com o processador.
+    <br>
+    &emsp;<strong>ipaddress:</strong> Esta biblioteca tem a capacidade de criar, manipular endereços IP do tipo IPv4, IPv6 e até redes inteiras.
+</p>
+
+<hr>
+
+<p align="center">
+    <a href="https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/gerador_de_wordlists.py"><strong>Gerador de Wordlists</strong></a>
+</p>
+
+<p align="justify">
+    &emsp;Wordlists são arquivos contendo uma palavra por linha. São utilizados em ataques de força bruta como quebra de autenticação, pode ser usada para testar a autenticação, pode ser usada para testar a autenticação e confidencialidade de um Sistema.
+</p>
 
 <hr>
 
