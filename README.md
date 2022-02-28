@@ -1,6 +1,21 @@
 **Curso:** Segurança da Informação com Python. <br>
 **Plataforma:** Digital Innovation One.
 
+**Princípios da Segurança da Informação:**
+<p align="justify">
+    &emsp;Integridade: Proteger a informação de alterações indevidas.
+    <br>
+    &emsp;Confidencialidade: Manter uma informação confidencial.
+    <br>
+    &emsp;Disponibilidade: Garantir que um recurso e/ou informação esteja disponível.
+    <br>
+    &emsp;Identificação: Identificar uma entidade.
+    <br>
+    &emsp;Autenticação: Verificar a entidade e suas credenciais.
+    <br>
+    &emsp;Autorização: Autorizar a entidade dentro de um Sistema.
+</p>
+
 [Ping Simples](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_simples.py) <br>
 [Ping Múltiplo](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/ping_multiplo.py) <br>
 [Cliente TCP](https://github.com/lucasrmagalhaes/seguranca_informacao-py/blob/main/cliente_TCP.py) <br>
